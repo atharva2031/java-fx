@@ -1,2 +1,2 @@
 # java-fx
-Some basic java-fx projects
+Java FX application for tracking most ordered items in a restaurant
